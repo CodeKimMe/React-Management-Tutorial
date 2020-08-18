@@ -10,6 +10,7 @@ function App() {
           <h1 style = {{color: "blue"}}>HiHiHi</h1>
           <button>hey there!</button>
           <input type = "checkbox"></input>
+          <input placeholder = "type here"></input>
       </div>
   );
 }
