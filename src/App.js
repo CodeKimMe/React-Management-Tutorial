@@ -8,6 +8,8 @@ function App() {
           <img src={logo} lat="logo" />
           <h2>Let's develop management system!</h2>
           <h1 style = {{color: "blue"}}>HiHiHi</h1>
+          <button>hey there!</button>
+          <input type = "checkbox"></input>
       </div>
   );
 }
